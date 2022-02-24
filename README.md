@@ -5,3 +5,8 @@
 Link: https://mywalletbackendapp.herokuapp.com/
 
 ## API Documentation
+### /register
+### /login    post
+### /users    get e post
+### /users/transactions
+
